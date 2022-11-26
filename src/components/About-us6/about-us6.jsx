@@ -41,7 +41,7 @@ const AboutUs6 = () => {
                 We work together with our customers and function as a collaborative
 
                 member of their project teams. We are dedicated to understanding our
-                clients' specific economic and functional goals. We adopt them as our
+                clients specific economic and functional goals. We adopt them as our
 
                 own, and work together with them towards implementation.
 

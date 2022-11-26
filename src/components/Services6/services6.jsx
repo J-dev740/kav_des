@@ -71,7 +71,7 @@ const Services6 = () => {
               comprehensive design evolution towards innovation
 
               excellence and building performance is the basis of
-              the Firm's design philosophy. Kavyam Design ensures
+              the Firms design philosophy. Kavyam Design ensures
               that the integrity of the design is maintained by
               rigorously monitoring of the construction process.
 
