@@ -128,13 +128,13 @@ const Navbar = ({ lr, nr, theme }) => {
               </div> */}
 
             </li>
-            <li className="nav-item dropdown" 
+            {/* <li className="nav-item dropdown" 
             // onClick={handleDropdown}
             >
                <Link href={`#`}>
                   <a className="nav-link">Blog</a>
                 </Link>             
-              {/* <span
+              <span
                 className="nav-link dropdown-toggle"
                 data-toggle="dropdown"
                 role="button"
@@ -156,8 +156,8 @@ const Navbar = ({ lr, nr, theme }) => {
                 <Link href={`/blog-details/blog-details-dark`}>
                   <a className="dropdown-item">Blog Details</a>
                 </Link>
-              </div> */}
-            </li>
+              </div>
+            </li> */}
             <li className="nav-item">
             <Link href={`/homepage/home8-dark/#contact-arch`}>
                   <a className="nav-link">Contact</a>

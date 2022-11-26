@@ -157,8 +157,8 @@ const NavbarArch = ({ navbarRef, theme }) => {
                 Testimonials
               </Link>
             </li> */}
-            <li className="nav-item">
-              {/* <Link
+            {/* <li className="nav-item">
+              <Link
                 className="nav-link"
                 to="blog-arch"
                 spy={true}
@@ -167,14 +167,14 @@ const NavbarArch = ({ navbarRef, theme }) => {
                 duration={500}
               > 
                
-              </Link> */}
+              </Link>
                <a
                  className="nav-link"
                 href={`/blog-grid/blog-grid-dark`}
                 >
                    Blog
                 </a>
-            </li>
+            </li> */}
             <li className="nav-item">
               <Link
                 className="nav-link"
