@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": {
+      "first": "Private",
+      "second": "Houses MasterPlan"
+    },
+    "content": "Function,efficiency,beauty,and economy are the keystones of each project",
+    "image": "/img/arch/slid/1.jpg"
+  },
+  {
+    "id": 2,
+    "title": "BedRoom,Luxury Interior",
+    "content": "We developed strong relationships with contractors and specialist companies offering discounted prices.",
+    "image": "/img/arch/slid/3.jpg"
+  },
+  {
+    "id": 3,
+    "title": {
+      "first": "Innovative",
+      "second": "Architectures"
+    },
+    "content": "Our Design Philosophy constantly seeks to produce excellence: high quality work, completed on time and within budget.",
+    "image": "/img/arch/slid/2.jpg"
+  }
+]
