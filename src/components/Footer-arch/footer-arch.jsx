@@ -59,7 +59,7 @@ const FooterArch = () => {
                   <span className="icon pe-7s-call"></span>
                   <div className="cont">
                     <h6>Call Us</h6>
-                    <p>9744983398.9847632116</p>
+                    <p>9744983398.04872332211</p>
                   </div>
                 </li>
               </ul>
