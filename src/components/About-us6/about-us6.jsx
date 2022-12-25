@@ -1,6 +1,6 @@
 import React from 'react'
 import Link from 'next/link'
-import { Head } from 'next/document';
+// import { Head } from 'next/document';
 import Collapsible from 'react-collapsible';
 
 const AboutUs6 = () => {
@@ -42,7 +42,7 @@ const AboutUs6 = () => {
                   extensive clientele in both the private and public sectors. Historically,
                   work focused on residential design and construction; Gradually, Public
                   Building design and construction came to represent the bulk of the
-                  firm's work; as a result, KAVYAM DESIGNS has designed numerous public buildings across the country.
+                  firm'&apos;s work; as a result, KAVYAM DESIGNS has designed numerous public buildings across the country.
                   </p>
                   <br/>
                   <p>
@@ -55,7 +55,7 @@ const AboutUs6 = () => {
                   <p>
                   The Firm now is the consultant architect to Ulccs which is the biggest
                   registered contracting society under Government of Kerala.
-                  The bulk of the Firm's work in the last few years has been varied but
+                  The bulk of the Firm&apos;s work in the last few years has been varied but
                   predominantly focused on commercial office, retail, Public and the
                   industrial sectors; often with a focus on Construction Management and
                   Design/Build Project Delivery Methodologies.<br/>
