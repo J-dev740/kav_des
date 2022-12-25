@@ -2,23 +2,29 @@
   {
     "id": 1,
     "title": {
-      "first": "Private",
-      "second": "Houses MasterPlan"
+      "first": "- Residential ",
+      "second": "- Interior ",
+      "third" : "- Transportation"
     },
-    "content": "Function,efficiency,beauty,and economy are the keystones of each project",
+    "content": "We believe that successful architecture is best achieved through effective partnerships of all project stakeholders with the common goal of optimizing functional and market viability through creative architectural design.",
     "image": "/img/arch/slid/1.jpg"
   },
   {
     "id": 2,
-    "title": "BedRoom,Luxury Interior",
-    "content": "We developed strong relationships with contractors and specialist companies offering discounted prices.",
+  "title": {
+    "first": "- Hospitality ",
+    "second": "- Public Offices",
+    "third" : "- Auditoriums"
+  },
+    "content": "We work together with our customers and function as a collaborative member of their project teams. We are dedicated to understanding our clients' specific economic and functional goals. We adopt them as our own, and work together with them towards implementation.",
     "image": "/img/arch/slid/3.jpg"
   },
   {
     "id": 3,
     "title": {
-      "first": "Innovative",
-      "second": "Architectures"
+      "first": "- Hospitals ",
+      "second": "- Commercial",
+      "third" : "- It Offices"
     },
     "content": "Our Design Philosophy constantly seeks to produce excellence: high quality work, completed on time and within budget.",
     "image": "/img/arch/slid/2.jpg"

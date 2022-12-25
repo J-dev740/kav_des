@@ -82,7 +82,7 @@ const Intro5 = () => {
                           <h1>
                             {typeof slide.title === "object" ? (
                               <>
-                                {slide.title.first} <br /> {slide.title.second}
+                                {slide.title.first} <br /> {slide.title.second}<br /> {slide.title.third}
                               </>
                             ) : (
                               slide.title

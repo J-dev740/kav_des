@@ -43,7 +43,7 @@ const Team3 = () => {
                       <use xlinkHref="#circlePath1" fill="none" />
                       <text fill="#c5a47e" className="custom-font">
                         <textPath xlinkHref="#circlePath1">
-                          Chief Client Architect - Chief Client Architect - Chief Client Architect -
+                          Chief Consultant Architect - Chief Consultant Architect - Chief Consultant Architect -
                         </textPath>
                       </text>
                     </g>
@@ -51,7 +51,7 @@ const Team3 = () => {
                 </div>
                 <div className="info">
                   <h6 className="ls3">Dr.Josna Rahael</h6>
-                  <span className="main-color fw-600">Client Architect</span>
+                  <span className="main-color fw-600">Chief Consultant Architect</span>
                 </div>
               </div>
             </div>

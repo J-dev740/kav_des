@@ -35,10 +35,10 @@ const WorksStyle5 = () => {
                 All
               </span>
               <span data-filter=".brand">Interior</span>
-              <span data-filter=".web">Architecture</span>
+              <span data-filter=".web">Commercial</span>
               <span data-filter=".graphic">Residential</span>
-              <span data-filter=".graphic1">transports</span>
-              <span data-filter=".graphic2">resort</span>
+              <span data-filter=".graphic1">Transports</span>
+              <span data-filter=".graphic2">Hospitality</span>
             </div>
           </div>
 
@@ -118,6 +118,7 @@ Kavyam-Designs
 Kavyam-Designs
                 </span>
               </div>
+              
             </div>
             <div
               className="col-md-4 items graphic lg-mr wow fadeInUp"

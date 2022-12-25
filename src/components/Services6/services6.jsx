@@ -81,7 +81,7 @@ const Services6 = () => {
             </Link> */}
           </div>
 
-          <div
+          {/* <div
             className="col-lg col-md-6 item bg-img"
             style={{ backgroundImage: "url(/img/arch/s4.jpg)" }}
           >
@@ -91,10 +91,10 @@ const Services6 = () => {
               We provide all equipment and services, etc and ensure a safe and
               secure project site.
             </p>
-            {/* <Link href="/about/about-dark">
+            <Link href="/about/about-dark">
               <a className="custom-font more main-color">Read More</a>
-            </Link> */}
-          </div>
+            </Link>
+          </div> */}
 
           <div
             className="col-lg col-md-6 item bg-img"
